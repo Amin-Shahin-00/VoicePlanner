@@ -1,0 +1,21 @@
+{
+  "sourceLanguage" : "ar",
+  "strings" : {
+    "${applicationName} فكرة جديدة" : {
+
+    },
+    "أضف خطة في ${applicationName}" : {
+
+    },
+    "أضف فكرة في ${applicationName}" : {
+
+    },
+    "سجل فكرة في ${applicationName}" : {
+
+    },
+    "فكرة جديدة في ${applicationName}" : {
+
+    }
+  },
+  "version" : "1.0"
+}
